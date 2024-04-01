@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.gov.ap.sigrh",
+      "sha256_cert_fingerprints": [
+        "B0:3E:1C:C9:50:29:9C:C7:3D:E6:3B:82:E9:70:4D:21:F5:87:F3:4A:CB:84:84:0F:CC:9C:80:66:81:58:AC:11"
+      ]
+    }
+  }
+]
